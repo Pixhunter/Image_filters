@@ -7,7 +7,7 @@ So you will have an image with those filters:<br/>
                  - bayer filter with 4x4 matrix<br/>
                  - bayer filter with 8x8 matrix<br/>
                  
-Filters depends of image pixels britness:
+Filters depends of image pixels britness:<br/>
                  - black and white colors only<br/>
                  - black and white colors with random noise<br/>
                  - 8 colors (black, white, red, green, blue, cyan, magenta, yellow)<br/>
