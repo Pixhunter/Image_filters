@@ -35,7 +35,5 @@ This noise makes picture not to be solid.<br/>
 This is the example of program result:<br/>
 
  
-![result(2)](https://user-images.githubusercontent.com/88940110/183755211-511237ca-f3b4-4fdf-bc59-a10ddf37ad93.jpg)<br/>
-![result(6)](https://user-images.githubusercontent.com/88940110/183759812-3ec54063-4426-4c22-b5f0-f1aea1f5180a.jpg)<br/> 
-![result(15)](https://user-images.githubusercontent.com/88940110/183759894-c78b0222-5b7a-40e0-b296-a4cbae9c6097.jpg)<br/> 
-![result(22)](https://user-images.githubusercontent.com/88940110/183759904-769bd1b2-7eec-408a-a06c-10e1d30b1bc0.jpg)<br/> 
+![result(2)](https://user-images.githubusercontent.com/88940110/183755211-511237ca-f3b4-4fdf-bc59-a10ddf37ad93.jpg)<br/><br/> 
+![result(15)](https://user-images.githubusercontent.com/88940110/183759894-c78b0222-5b7a-40e0-b296-a4cbae9c6097.jpg)<br/>  
