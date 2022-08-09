@@ -35,10 +35,7 @@ This noise makes picture not to be solid.<br/>
 This is the example of program result:<br/>
 
  
-![result(2)](https://user-images.githubusercontent.com/88940110/183755211-511237ca-f3b4-4fdf-bc59-a10ddf37ad93.jpg)
-![result(6)](https://user-images.githubusercontent.com/88940110/183759812-3ec54063-4426-4c22-b5f0-f1aea1f5180a.jpg)
-![result(11)](https://user-images.githubusercontent.com/88940110/183759882-6c4ee75f-f115-4423-b043-5b19e15c1a1e.jpg)
-![result(15)](https://user-images.githubusercontent.com/88940110/183759894-c78b0222-5b7a-40e0-b296-a4cbae9c6097.jpg)
-![result(12)](https://user-images.githubusercontent.com/88940110/183759898-21ee4734-3045-4093-8293-409d9e5116dc.jpg)
-![result(22)](https://user-images.githubusercontent.com/88940110/183759904-769bd1b2-7eec-408a-a06c-10e1d30b1bc0.jpg)
-![result(21)](https://user-images.githubusercontent.com/88940110/183759909-7bcbae8c-d0d6-45b2-b999-85195d513a29.jpg)
+![result(2)](https://user-images.githubusercontent.com/88940110/183755211-511237ca-f3b4-4fdf-bc59-a10ddf37ad93.jpg)<br/>
+![result(6)](https://user-images.githubusercontent.com/88940110/183759812-3ec54063-4426-4c22-b5f0-f1aea1f5180a.jpg)<br/> 
+![result(15)](https://user-images.githubusercontent.com/88940110/183759894-c78b0222-5b7a-40e0-b296-a4cbae9c6097.jpg)<br/> 
+![result(22)](https://user-images.githubusercontent.com/88940110/183759904-769bd1b2-7eec-408a-a06c-10e1d30b1bc0.jpg)<br/> 
